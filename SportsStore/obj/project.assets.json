@@ -5721,19 +5721,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Cyber\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\Cyber\\Source\\Repos\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\User\\source\\repos\\SportsSln\\SportsStore\\SportsStore.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\SportsSln\\SportsStore\\obj\\",
+      "projectPath": "C:\\Users\\Cyber\\Source\\Repos\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "packagesPath": "C:\\Users\\Cyber\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cyber\\Source\\Repos\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cyber\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
