@@ -154,3 +154,10 @@ C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Sports
 C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
 C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\User\source\repos\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
