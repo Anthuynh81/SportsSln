@@ -24,7 +24,6 @@
     ".NETCoreApp,Version=v3.1": {
       "SportsStore/1.0.0": {
         "dependencies": {
-          "Font.Awesome": "5.13.0",
           "Microsoft.EntityFrameworkCore.Design": "3.1.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.7",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.7",
@@ -305,7 +304,6 @@
           "SportsStore.dll": {}
         }
       },
-      "Font.Awesome/5.13.0": {},
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -3023,13 +3021,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Font.Awesome/5.13.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-bb+aWUhtojzkqmgPh1HfuOWuggnbhH5Y2PPYfTGN11w0Z4eU8/ZwauLlOX/kAg5/Vch/5T/l84VeaWjMU2aclg==",
-      "path": "font.awesome/5.13.0",
-      "hashPath": "font.awesome.5.13.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",
