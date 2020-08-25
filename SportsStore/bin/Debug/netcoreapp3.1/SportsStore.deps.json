@@ -25,7 +25,10 @@
       "SportsStore/1.0.0": {
         "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Microsoft.EntityFrameworkCore.Analyzers": "3.1.7",
+=======
+>>>>>>> parent of d6fa52b... Completed the Cart
 =======
 >>>>>>> parent of d6fa52b... Completed the Cart
           "Microsoft.EntityFrameworkCore.Design": "3.1.7",
