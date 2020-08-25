@@ -161,3 +161,8 @@ C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\P
 C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
 C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\User\source\repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Cyber\Source\Repos\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
