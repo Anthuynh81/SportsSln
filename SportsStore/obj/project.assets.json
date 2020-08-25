@@ -5715,25 +5715,29 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+<<<<<<< HEAD
+      "Microsoft.EntityFrameworkCore.Analyzers >= 3.1.7",
+=======
+>>>>>>> parent of d6fa52b... Completed the Cart
       "Microsoft.EntityFrameworkCore.Design >= 3.1.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.7",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.7"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cyber\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cyber\\Source\\Repos\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\Cyber\\Source\\Repos\\SportsSln\\SportsStore\\SportsStore.csproj",
-      "packagesPath": "C:\\Users\\Cyber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cyber\\Source\\Repos\\SportsSln\\SportsStore\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Cyber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5757,6 +5761,13 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+<<<<<<< HEAD
+          "Microsoft.EntityFrameworkCore.Analyzers": {
+            "target": "Package",
+            "version": "[3.1.7, )"
+          },
+=======
+>>>>>>> parent of d6fa52b... Completed the Cart
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
