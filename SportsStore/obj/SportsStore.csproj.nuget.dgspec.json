@@ -38,10 +38,13 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
               "version": "[3.1.7, )"
             },
+=======
+>>>>>>> parent of d6fa52b... Completed the Cart
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
